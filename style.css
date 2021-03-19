@@ -19,14 +19,25 @@ body {
     justify-content: space-between;
 }
 
-#blocks div{
+#blocks div {
     flex: 0 0 100px;
     padding: 40px 0;
     text-align: center;
     background-color: #ccc;
 }
 
-.one{order: 2;}
-.two{order: 1;}
-.three{order: 4;}
-.four{order: 3;}
+.one {
+    order: 2;
+}
+
+.two {
+    order: 1;
+}
+
+.three {
+    order: 4;
+}
+
+.four {
+    order: 3;
+}
