@@ -1,0 +1,46 @@
+{
+  "name": "flexbox-plays",
+  "version": "1.0.0",
+  "description": "A collection of CSS Flexbox examples and demonstrations for learning modern CSS layout techniques",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Open index.html or any example HTML file in your browser' && open index.html",
+    "open:example1": "open example-1/menu.html",
+    "open:example2": "open example-2/nested-menu.html",
+    "open:example3": "open example-3/grid-vs-stack.html"
+  },
+  "keywords": [
+    "css",
+    "flexbox",
+    "css3",
+    "layout",
+    "responsive",
+    "frontend",
+    "web-development",
+    "examples",
+    "tutorial",
+    "learning",
+    "html5",
+    "responsive-design",
+    "mobile-first",
+    "navigation-menu",
+    "grid-layout"
+  ],
+  "author": {
+    "name": "Or Assayag",
+    "email": "orassayag@gmail.com",
+    "url": "https://github.com/orassayag"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orassayag/flexbox-plays.git"
+  },
+  "bugs": {
+    "url": "https://github.com/orassayag/flexbox-plays/issues"
+  },
+  "homepage": "https://github.com/orassayag/flexbox-plays#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
