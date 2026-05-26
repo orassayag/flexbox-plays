@@ -1,14 +1,7 @@
 {
   "name": "flexbox-plays",
   "version": "1.0.0",
-  "description": "A collection of CSS Flexbox examples and demonstrations for learning modern CSS layout techniques",
-  "main": "index.html",
-  "scripts": {
-    "start": "echo 'Open index.html or any example HTML file in your browser' && open index.html",
-    "open:example1": "open example-1/menu.html",
-    "open:example2": "open example-2/nested-menu.html",
-    "open:example3": "open example-3/grid-vs-stack.html"
-  },
+  "description": "A collection of CSS Flexbox examples and demos for learning modern CSS layout techniques through practical experiments and reusable patterns. Built in November 2018, this project showcases Flexbox basics, responsive navigation menus, nested flex containers, alignment, spacing, and layout examples",
   "keywords": [
     "css",
     "flexbox",
@@ -26,20 +19,59 @@
     "navigation-menu",
     "grid-layout"
   ],
+  "homepage": "https://github.com/orassayag/flexbox-plays#readme",
+  "bugs": {
+    "url": "https://github.com/orassayag/flexbox-plays/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orassayag/flexbox-plays.git"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/orassayag"
+  },
+  "license": "MIT",
   "author": {
     "name": "Or Assayag",
     "email": "orassayag@gmail.com",
     "url": "https://github.com/orassayag"
   },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/orassayag/flexbox-plays.git"
+  "contributors": [
+    {
+      "name": "Or Assayag",
+      "email": "orassayag@gmail.com",
+      "url": "https://github.com/orassayag"
+    }
+  ],
+  "main": "index.html",
+  "files": [
+    ".github",
+    ".vscode",
+    "example-1",
+    "example-2",
+    "example-3",
+    ".eslintrc",
+    ".gitattributes",
+    ".gitignore",
+    ".prettierrc",
+    "CHANGELOG.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "index.html",
+    "INSTRUCTIONS.md",
+    "LICENSE",
+    "package.json",
+    "README.md",
+    "SECURITY.md",
+    "style.css"
+  ],
+  "scripts": {
+    "open:example1": "open example-1/menu.html",
+    "open:example2": "open example-2/nested-menu.html",
+    "open:example3": "open example-3/grid-vs-stack.html",
+    "start": "echo 'Open index.html or any example HTML file in your browser' && open index.html"
   },
-  "bugs": {
-    "url": "https://github.com/orassayag/flexbox-plays/issues"
-  },
-  "homepage": "https://github.com/orassayag/flexbox-plays#readme",
   "engines": {
     "node": ">=12.0.0"
   }

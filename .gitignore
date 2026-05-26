@@ -1,3 +1,34 @@
+# Distribution
+dist
+out
+build
+node_modules
+
+# Logs
+*.log*
+logs
+
+# Environment
+*.env*
+!.env.example
+.env.production
+.env.test
+
+# OAuth
+token.json
+client_secret*.json
+
+# Runtime Data
+api-stats.json
+
+# Misc
+.DS_Store
+.pnpm-store
+
+# Tests
+coverage
+
+# Others:
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -18,13 +49,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
 .AppleDouble
 .LSOverride
 

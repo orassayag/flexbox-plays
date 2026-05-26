@@ -9,6 +9,7 @@ Everyone is welcome to contribute to this project. Contributing doesn't just mea
 ### Reporting Issues
 
 If you find a bug or have a feature request:
+
 1. Check if the issue already exists in the [GitHub Issues](https://github.com/orassayag/flexbox-plays/issues)
 2. If not, create a new issue with:
    - Clear title and description
@@ -32,11 +33,13 @@ If you find a bug or have a feature request:
 ### Code Style Guidelines
 
 This project uses:
+
 - **HTML5** semantic markup
 - **CSS3** with Flexbox
 - Clean, readable code with proper indentation
 
 Before submitting:
+
 - Test in Chrome, Firefox, and Safari
 - Ensure responsive behavior works correctly
 - Validate HTML and CSS
@@ -53,6 +56,7 @@ Before submitting:
 ### Adding New Examples
 
 When adding new Flexbox examples:
+
 1. Create a new directory: `example-N/`
 2. Include both HTML and CSS files
 3. Follow existing naming conventions
@@ -64,9 +68,9 @@ When adding new Flexbox examples:
 
 Please feel free to contact me with any question, comment, pull-request, issue, or any other thing you have in mind.
 
-* Or Assayag <orassayag@gmail.com>
-* GitHub: https://github.com/orassayag
-* StackOverflow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
-* LinkedIn: https://linkedin.com/in/orassayag
+- Or Assayag <orassayag@gmail.com>
+- GitHub: https://github.com/orassayag
+- StackOverflow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
+- LinkedIn: https://linkedin.com/in/orassayag
 
 Thank you for contributing! 🙏
